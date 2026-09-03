@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b0764"/>
+      <stop offset=".58" stop-color="#6d28d9"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="500" fill="url(#bg)"/>
+  <circle cx="880" cy="92" r="180" fill="#fff" opacity=".07"/>
+  <circle cx="80" cy="470" r="180" fill="#c4b5fd" opacity=".1"/>
+  <g transform="translate(76 88)">
+    <rect width="112" height="28" rx="14" fill="#fbbf24"/>
+    <text x="56" y="20" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#451a03">TARGET 2027</text>
+    <text y="94" font-family="Arial,sans-serif" font-size="52" font-weight="800" fill="#fff">SSC MTS</text>
+    <text y="152" font-family="Arial,sans-serif" font-size="52" font-weight="800" fill="#fff">DAILY PRACTICE</text>
+    <text y="202" font-family="Arial,sans-serif" font-size="23" fill="#ede9fe">Quiz • Mock Tests • Explanations • Score Tracking</text>
+    <g transform="translate(0 238)">
+      <rect width="146" height="48" rx="14" fill="#fff"/>
+      <text x="73" y="31" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#5b21b6">PRACTICE NOW</text>
+    </g>
+  </g>
+  <g transform="translate(726 42) rotate(5)">
+    <rect width="230" height="414" rx="38" fill="#111827"/>
+    <rect x="10" y="10" width="210" height="394" rx="30" fill="#f8fafc"/>
+    <rect x="72" y="18" width="86" height="12" rx="6" fill="#111827"/>
+    <rect x="26" y="54" width="178" height="112" rx="20" fill="#5b21b6"/>
+    <rect x="42" y="73" width="78" height="9" rx="4" fill="#ddd6fe"/>
+    <rect x="42" y="95" width="128" height="15" rx="7" fill="#fff"/>
+    <rect x="42" y="122" width="95" height="15" rx="7" fill="#fff"/>
+    <rect x="26" y="184" width="178" height="52" rx="14" fill="#fff" stroke="#e2e8f0"/>
+    <circle cx="54" cy="210" r="14" fill="#2563eb"/>
+    <rect x="78" y="199" width="86" height="8" rx="4" fill="#1f2937"/>
+    <rect x="78" y="216" width="65" height="6" rx="3" fill="#94a3b8"/>
+    <rect x="26" y="248" width="178" height="52" rx="14" fill="#fff" stroke="#e2e8f0"/>
+    <circle cx="54" cy="274" r="14" fill="#f97316"/>
+    <rect x="78" y="263" width="86" height="8" rx="4" fill="#1f2937"/>
+    <rect x="78" y="280" width="65" height="6" rx="3" fill="#94a3b8"/>
+    <rect x="26" y="312" width="178" height="52" rx="14" fill="#5b21b6"/>
+    <text x="115" y="344" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">START MOCK TEST</text>
+  </g>
+</svg>
