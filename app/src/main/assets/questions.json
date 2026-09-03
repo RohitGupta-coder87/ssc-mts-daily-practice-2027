@@ -1,0 +1,725 @@
+[
+  {
+    "id": "ENG001",
+    "subject": "ENG",
+    "topic": "Tense",
+    "question": "Choose the correct sentence.",
+    "options": ["She is living here since 2019.", "She has been living here since 2019.", "She was living here since 2019.", "She had living here since 2019."],
+    "answer": 1,
+    "explanation": "Since + निश्चित starting point के साथ जारी action के लिए Present Perfect Continuous: has been living."
+  },
+  {
+    "id": "ENG002",
+    "subject": "ENG",
+    "topic": "Subject-Verb Agreement",
+    "question": "Fill in the blank: Neither of the boys ___ completed his work.",
+    "options": ["have", "has", "are", "were"],
+    "answer": 1,
+    "explanation": "Neither of + plural noun के बाद verb singular होता है; इसलिए has सही है।"
+  },
+  {
+    "id": "ENG003",
+    "subject": "ENG",
+    "topic": "Synonym",
+    "question": "Choose the synonym of ‘Abundant’.",
+    "options": ["Scarce", "Plentiful", "Empty", "Tiny"],
+    "answer": 1,
+    "explanation": "Abundant का अर्थ plentiful या भरपूर होता है।"
+  },
+  {
+    "id": "ENG004",
+    "subject": "ENG",
+    "topic": "Antonym",
+    "question": "Choose the antonym of ‘Ancient’.",
+    "options": ["Old", "Historic", "Modern", "Traditional"],
+    "answer": 2,
+    "explanation": "Ancient का विपरीत Modern है।"
+  },
+  {
+    "id": "ENG005",
+    "subject": "ENG",
+    "topic": "One Word Substitution",
+    "question": "A person who cannot read or write is called an ___.",
+    "options": ["immigrant", "illiterate", "introvert", "orphan"],
+    "answer": 1,
+    "explanation": "Illiterate = ऐसा व्यक्ति जो पढ़ या लिख नहीं सकता।"
+  },
+  {
+    "id": "ENG006",
+    "subject": "ENG",
+    "topic": "Idiom",
+    "question": "‘Once in a blue moon’ means:",
+    "options": ["every night", "very rarely", "at the right time", "without warning"],
+    "answer": 1,
+    "explanation": "Once in a blue moon का अर्थ बहुत कम या कभी-कभार होता है।"
+  },
+  {
+    "id": "ENG007",
+    "subject": "ENG",
+    "topic": "Voice",
+    "question": "Change into passive voice: They will complete the work.",
+    "options": ["The work will complete by them.", "The work is completed by them.", "The work will be completed by them.", "The work was completed by them."],
+    "answer": 2,
+    "explanation": "Future passive का structure: will be + V3. इसलिए ‘will be completed’ सही है।"
+  },
+  {
+    "id": "ENG008",
+    "subject": "ENG",
+    "topic": "Narration",
+    "question": "Change into indirect speech: He said, “I am tired.”",
+    "options": ["He said that I am tired.", "He said that he was tired.", "He says that he is tired.", "He said he has tired."],
+    "answer": 1,
+    "explanation": "Past reporting verb ‘said’ के कारण am → was और I → he होता है।"
+  },
+  {
+    "id": "ENG009",
+    "subject": "ENG",
+    "topic": "Spelling",
+    "question": "Choose the correctly spelt word.",
+    "options": ["Acommodation", "Accomodation", "Accommodation", "Acommoddation"],
+    "answer": 2,
+    "explanation": "Accommodation में double c और double m आते हैं।"
+  },
+  {
+    "id": "ENG010",
+    "subject": "ENG",
+    "topic": "Article",
+    "question": "He is ___ honest man.",
+    "options": ["a", "an", "the", "no article"],
+    "answer": 1,
+    "explanation": "Honest में h silent है और vowel sound से शब्द शुरू होता है, इसलिए an लगेगा।"
+  },
+  {
+    "id": "ENG011",
+    "subject": "ENG",
+    "topic": "Preposition",
+    "question": "Ravi is good ___ mathematics.",
+    "options": ["in", "on", "at", "for"],
+    "answer": 2,
+    "explanation": "सही fixed preposition ‘good at’ है।"
+  },
+  {
+    "id": "ENG012",
+    "subject": "ENG",
+    "topic": "Number",
+    "question": "What is the plural form of ‘criterion’?",
+    "options": ["criterions", "criteria", "criteriones", "criterias"],
+    "answer": 1,
+    "explanation": "Criterion का irregular plural Criteria होता है।"
+  },
+  {
+    "id": "ENG013",
+    "subject": "ENG",
+    "topic": "Comparison",
+    "question": "Choose the grammatically correct sentence.",
+    "options": ["Riya is taller than Sita.", "Riya is more taller than Sita.", "Riya is tallest than Sita.", "Riya is tall from Sita."],
+    "answer": 0,
+    "explanation": "दो लोगों की तुलना में comparative degree + than प्रयोग होता है: taller than."
+  },
+  {
+    "id": "ENG014",
+    "subject": "ENG",
+    "topic": "Conditional",
+    "question": "If I had known about the problem, I ___ you.",
+    "options": ["will help", "would help", "would have helped", "helped"],
+    "answer": 2,
+    "explanation": "Third conditional: If + had + V3, would have + V3."
+  },
+  {
+    "id": "ENG015",
+    "subject": "ENG",
+    "topic": "Word Formation",
+    "question": "Choose the noun form of ‘decide’.",
+    "options": ["decisive", "decision", "decided", "deciding"],
+    "answer": 1,
+    "explanation": "Decide क्रिया है; इसका noun Decision है।"
+  },
+  {
+    "id": "ENG016",
+    "subject": "ENG",
+    "topic": "Phrasal Verb",
+    "question": "The phrasal verb ‘look after’ means:",
+    "options": ["search", "take care of", "ignore", "look behind"],
+    "answer": 1,
+    "explanation": "Look after = किसी की देखभाल करना।"
+  },
+  {
+    "id": "ENG017",
+    "subject": "ENG",
+    "topic": "Error Spotting",
+    "question": "Choose the correct form: Each of the players ___ ready.",
+    "options": ["are", "were", "is", "have"],
+    "answer": 2,
+    "explanation": "Each singular subject है, इसलिए singular verb ‘is’ आएगा।"
+  },
+  {
+    "id": "ENG018",
+    "subject": "ENG",
+    "topic": "Subject-Verb Agreement",
+    "question": "The news ___ true.",
+    "options": ["are", "is", "were", "have"],
+    "answer": 1,
+    "explanation": "News देखने में plural लगता है, पर grammar में singular noun है; इसलिए is."
+  },
+  {
+    "id": "ENG019",
+    "subject": "ENG",
+    "topic": "Conjunction",
+    "question": "Hardly had he reached the station ___ the train left.",
+    "options": ["than", "when", "then", "while"],
+    "answer": 1,
+    "explanation": "Hardly/Scarcely के साथ ‘when’ का प्रयोग होता है।"
+  },
+  {
+    "id": "ENG020",
+    "subject": "ENG",
+    "topic": "Question Tag",
+    "question": "Let’s go for a walk, ___?",
+    "options": ["will we", "shall we", "do we", "aren’t we"],
+    "answer": 1,
+    "explanation": "Let’s से शुरू sentence का standard question tag ‘shall we?’ होता है।"
+  },
+
+  {
+    "id": "MATH001",
+    "subject": "MATH",
+    "topic": "Percentage",
+    "question": "480 का 25% कितना है?",
+    "options": ["100", "110", "120", "125"],
+    "answer": 2,
+    "explanation": "25% = 1/4. अतः 480 ÷ 4 = 120."
+  },
+  {
+    "id": "MATH002",
+    "subject": "MATH",
+    "topic": "Profit & Loss",
+    "question": "किसी वस्तु का क्रय मूल्य ₹800 और विक्रय मूल्य ₹920 है। लाभ प्रतिशत ज्ञात करें।",
+    "options": ["12%", "15%", "18%", "20%"],
+    "answer": 1,
+    "explanation": "लाभ = 920 − 800 = 120; लाभ% = 120/800 × 100 = 15%."
+  },
+  {
+    "id": "MATH003",
+    "subject": "MATH",
+    "topic": "Ratio",
+    "question": "दो संख्याओं का अनुपात 3:5 है और उनका योग 64 है। छोटी संख्या क्या है?",
+    "options": ["20", "24", "32", "40"],
+    "answer": 1,
+    "explanation": "कुल भाग = 8; एक भाग = 64/8 = 8; छोटी संख्या = 3×8 = 24."
+  },
+  {
+    "id": "MATH004",
+    "subject": "MATH",
+    "topic": "Simple Interest",
+    "question": "₹5,000 पर 8% वार्षिक दर से 2 वर्षों का साधारण ब्याज कितना होगा?",
+    "options": ["₹700", "₹750", "₹800", "₹850"],
+    "answer": 2,
+    "explanation": "SI = P×R×T/100 = 5000×8×2/100 = ₹800."
+  },
+  {
+    "id": "MATH005",
+    "subject": "MATH",
+    "topic": "Average",
+    "question": "18, 22, 25, 15 और 20 का औसत क्या है?",
+    "options": ["18", "19", "20", "21"],
+    "answer": 2,
+    "explanation": "योग = 100 और संख्याएँ = 5; औसत = 100/5 = 20."
+  },
+  {
+    "id": "MATH006",
+    "subject": "MATH",
+    "topic": "Time & Work",
+    "question": "12 व्यक्ति किसी काम को 15 दिनों में करते हैं। समान क्षमता वाले 20 व्यक्ति वही काम कितने दिनों में करेंगे?",
+    "options": ["8", "9", "10", "12"],
+    "answer": 1,
+    "explanation": "व्यक्ति×दिन स्थिर: 12×15 = 20×दिन; दिन = 9."
+  },
+  {
+    "id": "MATH007",
+    "subject": "MATH",
+    "topic": "Speed",
+    "question": "72 km/h को m/s में बदलें।",
+    "options": ["18 m/s", "20 m/s", "22 m/s", "24 m/s"],
+    "answer": 1,
+    "explanation": "km/h से m/s के लिए 5/18 से गुणा: 72×5/18 = 20 m/s."
+  },
+  {
+    "id": "MATH008",
+    "subject": "MATH",
+    "topic": "Train",
+    "question": "150 m लंबी ट्रेन 54 km/h की गति से एक खंभे को कितने समय में पार करेगी?",
+    "options": ["8 s", "10 s", "12 s", "15 s"],
+    "answer": 1,
+    "explanation": "54 km/h = 15 m/s; समय = 150/15 = 10 सेकंड।"
+  },
+  {
+    "id": "MATH009",
+    "subject": "MATH",
+    "topic": "LCM",
+    "question": "12 और 18 का LCM क्या है?",
+    "options": ["24", "30", "36", "72"],
+    "answer": 2,
+    "explanation": "12 = 2²×3 और 18 = 2×3²; LCM = 2²×3² = 36."
+  },
+  {
+    "id": "MATH010",
+    "subject": "MATH",
+    "topic": "HCF",
+    "question": "72 और 120 का HCF क्या है?",
+    "options": ["12", "18", "24", "36"],
+    "answer": 2,
+    "explanation": "72 = 2³×3², 120 = 2³×3×5; common highest product = 2³×3 = 24."
+  },
+  {
+    "id": "MATH011",
+    "subject": "MATH",
+    "topic": "Fraction",
+    "question": "3/4 + 5/8 का मान क्या है?",
+    "options": ["1", "9/8", "11/8", "13/8"],
+    "answer": 2,
+    "explanation": "3/4 = 6/8; 6/8 + 5/8 = 11/8."
+  },
+  {
+    "id": "MATH012",
+    "subject": "MATH",
+    "topic": "Algebra",
+    "question": "यदि x + 1/x = 5, तो x² + 1/x² का मान क्या है?",
+    "options": ["21", "23", "25", "27"],
+    "answer": 1,
+    "explanation": "दोनों ओर square: x² + 1/x² + 2 = 25; अतः मान = 23."
+  },
+  {
+    "id": "MATH013",
+    "subject": "MATH",
+    "topic": "Mensuration",
+    "question": "एक आयत का परिमाप 54 cm और लंबाई 16 cm है। उसका क्षेत्रफल क्या है?",
+    "options": ["160 cm²", "176 cm²", "184 cm²", "192 cm²"],
+    "answer": 1,
+    "explanation": "2(L+B)=54 ⇒ L+B=27 ⇒ B=11; क्षेत्रफल = 16×11 = 176 cm²."
+  },
+  {
+    "id": "MATH014",
+    "subject": "MATH",
+    "topic": "Circle",
+    "question": "7 cm त्रिज्या वाले वृत्त की परिधि क्या है? (π = 22/7)",
+    "options": ["22 cm", "44 cm", "49 cm", "154 cm"],
+    "answer": 1,
+    "explanation": "परिधि = 2πr = 2×22/7×7 = 44 cm."
+  },
+  {
+    "id": "MATH015",
+    "subject": "MATH",
+    "topic": "Percentage",
+    "question": "किसी संख्या में पहले 15% वृद्धि और फिर 15% कमी की जाए तो कुल परिवर्तन क्या होगा?",
+    "options": ["कोई परिवर्तन नहीं", "2.25% वृद्धि", "2.25% कमी", "15% कमी"],
+    "answer": 2,
+    "explanation": "समान वृद्धि-कमी x% पर net loss = x²/100 = 225/100 = 2.25%."
+  },
+  {
+    "id": "MATH016",
+    "subject": "MATH",
+    "topic": "Discount",
+    "question": "₹1,500 के अंकित मूल्य पर 20% छूट के बाद विक्रय मूल्य क्या होगा?",
+    "options": ["₹1,100", "₹1,200", "₹1,250", "₹1,300"],
+    "answer": 1,
+    "explanation": "छूट = 1500×20% = 300; विक्रय मूल्य = 1500−300 = ₹1,200."
+  },
+  {
+    "id": "MATH017",
+    "subject": "MATH",
+    "topic": "Pipes",
+    "question": "एक नल टंकी को 12 घंटे और दूसरा 18 घंटे में भरता है। दोनों साथ मिलकर कितना समय लेंगे?",
+    "options": ["6 घंटे", "7 घंटे 12 मिनट", "7 घंटे 30 मिनट", "8 घंटे"],
+    "answer": 1,
+    "explanation": "संयुक्त दर = 1/12+1/18 = 5/36; समय = 36/5 घंटे = 7 घंटे 12 मिनट।"
+  },
+  {
+    "id": "MATH018",
+    "subject": "MATH",
+    "topic": "Mixture",
+    "question": "₹40/kg और ₹60/kg वाले चावल को समान मात्रा में मिलाया जाए तो मिश्रण का औसत मूल्य क्या होगा?",
+    "options": ["₹45/kg", "₹48/kg", "₹50/kg", "₹52/kg"],
+    "answer": 2,
+    "explanation": "समान मात्राओं के लिए सरल औसत = (40+60)/2 = ₹50/kg."
+  },
+  {
+    "id": "MATH019",
+    "subject": "MATH",
+    "topic": "Percentage",
+    "question": "किस संख्या का 40% बराबर 72 है?",
+    "options": ["160", "170", "180", "190"],
+    "answer": 2,
+    "explanation": "संख्या = 72×100/40 = 180."
+  },
+  {
+    "id": "MATH020",
+    "subject": "MATH",
+    "topic": "Compound Interest",
+    "question": "₹1,000 पर 10% वार्षिक चक्रवृद्धि दर से 2 वर्षों का ब्याज कितना होगा?",
+    "options": ["₹200", "₹210", "₹220", "₹240"],
+    "answer": 1,
+    "explanation": "राशि = 1000×1.1² = 1210; CI = 1210−1000 = ₹210."
+  },
+
+  {
+    "id": "REAS001",
+    "subject": "REASONING",
+    "topic": "Number Series",
+    "question": "श्रृंखला पूरी करें: 2, 6, 12, 20, 30, ?",
+    "options": ["36", "40", "42", "44"],
+    "answer": 2,
+    "explanation": "अंतर 4, 6, 8, 10 और अगला 12 है; 30+12 = 42."
+  },
+  {
+    "id": "REAS002",
+    "subject": "REASONING",
+    "topic": "Alphabet Series",
+    "question": "श्रृंखला पूरी करें: A, C, F, J, O, ?",
+    "options": ["T", "U", "V", "W"],
+    "answer": 1,
+    "explanation": "अक्षर छलांग +2, +3, +4, +5 है; अगली +6 से O के बाद U."
+  },
+  {
+    "id": "REAS003",
+    "subject": "REASONING",
+    "topic": "Classification",
+    "question": "विषम शब्द चुनें।",
+    "options": ["Apple", "Mango", "Carrot", "Banana"],
+    "answer": 2,
+    "explanation": "Carrot सब्जी है, जबकि बाकी फल हैं।"
+  },
+  {
+    "id": "REAS004",
+    "subject": "REASONING",
+    "topic": "Coding-Decoding",
+    "question": "यदि CAT को DBU लिखा जाता है, तो DOG को कैसे लिखा जाएगा?",
+    "options": ["EPH", "EOH", "FPH", "EPI"],
+    "answer": 0,
+    "explanation": "हर अक्षर में +1: D→E, O→P, G→H; उत्तर EPH."
+  },
+  {
+    "id": "REAS005",
+    "subject": "REASONING",
+    "topic": "Blood Relation",
+    "question": "A, B की माता है और B, C का भाई है। A का C से क्या संबंध है?",
+    "options": ["बहन", "माता", "दादी", "बुआ"],
+    "answer": 1,
+    "explanation": "B और C भाई-बहन हैं; B की माता A, C की भी माता होगी।"
+  },
+  {
+    "id": "REAS006",
+    "subject": "REASONING",
+    "topic": "Direction",
+    "question": "रवि 5 km उत्तर और फिर 3 km पूर्व चलता है। वह प्रारंभिक बिंदु से किस दिशा में है?",
+    "options": ["उत्तर-पश्चिम", "उत्तर-पूर्व", "दक्षिण-पूर्व", "दक्षिण-पश्चिम"],
+    "answer": 1,
+    "explanation": "उत्तर जाने के बाद पूर्व की ओर जाने पर अंतिम दिशा उत्तर-पूर्व होती है।"
+  },
+  {
+    "id": "REAS007",
+    "subject": "REASONING",
+    "topic": "Analogy",
+    "question": "Book : Read :: Food : ?",
+    "options": ["Cook", "Eat", "Buy", "Serve"],
+    "answer": 1,
+    "explanation": "Book को read किया जाता है; उसी प्रकार food को eat किया जाता है।"
+  },
+  {
+    "id": "REAS008",
+    "subject": "REASONING",
+    "topic": "Number Series",
+    "question": "3, 9, 27, 81, ?",
+    "options": ["162", "189", "216", "243"],
+    "answer": 3,
+    "explanation": "हर पद को 3 से गुणा किया गया है; 81×3 = 243."
+  },
+  {
+    "id": "REAS009",
+    "subject": "REASONING",
+    "topic": "Alphabet Position",
+    "question": "अंग्रेजी वर्णमाला में बाएँ से 18वाँ अक्षर कौन-सा है?",
+    "options": ["Q", "R", "S", "T"],
+    "answer": 1,
+    "explanation": "A=1 से गिनने पर R का स्थान 18 है।"
+  },
+  {
+    "id": "REAS010",
+    "subject": "REASONING",
+    "topic": "Ranking",
+    "question": "एक पंक्ति में मोहन बाएँ से 12वाँ और दाएँ से 9वाँ है। कुल कितने व्यक्ति हैं?",
+    "options": ["19", "20", "21", "22"],
+    "answer": 1,
+    "explanation": "कुल = बायाँ स्थान + दायाँ स्थान − 1 = 12+9−1 = 20."
+  },
+  {
+    "id": "REAS011",
+    "subject": "REASONING",
+    "topic": "Missing Number",
+    "question": "यदि 4 → 20, 6 → 42, तो 8 → ?",
+    "options": ["64", "70", "72", "80"],
+    "answer": 2,
+    "explanation": "नियम n×(n+1): 4×5=20, 6×7=42; 8×9=72."
+  },
+  {
+    "id": "REAS012",
+    "subject": "REASONING",
+    "topic": "Syllogism",
+    "question": "कथन: सभी गुलाब फूल हैं। सभी फूल पौधे हैं। निश्चित निष्कर्ष चुनें।",
+    "options": ["सभी पौधे गुलाब हैं", "कुछ पौधे फूल नहीं हैं", "सभी गुलाब पौधे हैं", "कोई फूल पौधा नहीं है"],
+    "answer": 2,
+    "explanation": "गुलाब ⊂ फूल और फूल ⊂ पौधे; इसलिए सभी गुलाब पौधे हैं।"
+  },
+  {
+    "id": "REAS013",
+    "subject": "REASONING",
+    "topic": "Letter Pair",
+    "question": "निम्न में कौन-सा जोड़ा उसी संबंध का पालन करता है: AZ : BY?",
+    "options": ["CX : DW", "CV : DU", "EX : FV", "MN : OP"],
+    "answer": 0,
+    "explanation": "पहला अक्षर +1 और दूसरा −1: A→B, Z→Y; उसी प्रकार C→D, X→W."
+  },
+  {
+    "id": "REAS014",
+    "subject": "REASONING",
+    "topic": "Age",
+    "question": "A की आयु B से 6 वर्ष अधिक है। दोनों की कुल आयु 30 वर्ष है। B की आयु क्या है?",
+    "options": ["10", "12", "14", "18"],
+    "answer": 1,
+    "explanation": "B=x, A=x+6; 2x+6=30 ⇒ x=12."
+  },
+  {
+    "id": "REAS015",
+    "subject": "REASONING",
+    "topic": "Logical Order",
+    "question": "सार्थक क्रम चुनें: 1. बीज 2. फल 3. पौधा 4. फूल",
+    "options": ["1-3-4-2", "1-4-3-2", "3-1-4-2", "4-3-2-1"],
+    "answer": 0,
+    "explanation": "प्राकृतिक क्रम: बीज → पौधा → फूल → फल।"
+  },
+  {
+    "id": "REAS016",
+    "subject": "REASONING",
+    "topic": "Mathematical Operations",
+    "question": "यदि ‘+’ का अर्थ ‘×’ और ‘−’ का अर्थ ‘+’ हो, तो 6 + 3 − 2 = ?",
+    "options": ["11", "18", "20", "24"],
+    "answer": 2,
+    "explanation": "चिह्न बदलने पर expression 6×3+2 = 18+2 = 20."
+  },
+  {
+    "id": "REAS017",
+    "subject": "REASONING",
+    "topic": "Analogy",
+    "question": "8 : 64 :: 12 : ?",
+    "options": ["96", "124", "132", "144"],
+    "answer": 3,
+    "explanation": "64 = 8²; इसी प्रकार 12² = 144."
+  },
+  {
+    "id": "REAS018",
+    "subject": "REASONING",
+    "topic": "Word Formation",
+    "question": "‘ADMINISTRATION’ के अक्षरों से कौन-सा शब्द नहीं बनाया जा सकता?",
+    "options": ["TRAIN", "MIND", "STATION", "MASTER"],
+    "answer": 3,
+    "explanation": "ADMINISTRATION में E अक्षर नहीं है, इसलिए MASTER नहीं बन सकता।"
+  },
+  {
+    "id": "REAS019",
+    "subject": "REASONING",
+    "topic": "Calendar",
+    "question": "यदि आज सोमवार है, तो 45 दिन बाद कौन-सा दिन होगा?",
+    "options": ["मंगलवार", "बुधवार", "गुरुवार", "शुक्रवार"],
+    "answer": 2,
+    "explanation": "45 ÷ 7 में शेष 3; सोमवार से 3 दिन बाद गुरुवार।"
+  },
+  {
+    "id": "REAS020",
+    "subject": "REASONING",
+    "topic": "Odd Number",
+    "question": "विषम संख्या चुनें: 16, 25, 36, 45",
+    "options": ["16", "25", "36", "45"],
+    "answer": 3,
+    "explanation": "16, 25 और 36 पूर्ण वर्ग हैं; 45 पूर्ण वर्ग नहीं है।"
+  },
+
+  {
+    "id": "GK001",
+    "subject": "GK",
+    "topic": "Polity",
+    "question": "भारतीय संविधान को संविधान सभा ने कब अंगीकृत किया?",
+    "options": ["15 अगस्त 1947", "26 नवंबर 1949", "26 जनवरी 1950", "2 अक्टूबर 1950"],
+    "answer": 1,
+    "explanation": "संविधान 26 नवंबर 1949 को अंगीकृत हुआ और 26 जनवरी 1950 से प्रभावी हुआ।"
+  },
+  {
+    "id": "GK002",
+    "subject": "GK",
+    "topic": "Polity",
+    "question": "भारतीय संविधान का अनुच्छेद 21 किससे संबंधित है?",
+    "options": ["समानता", "धार्मिक स्वतंत्रता", "जीवन और व्यक्तिगत स्वतंत्रता", "शिक्षा का अधिकार"],
+    "answer": 2,
+    "explanation": "अनुच्छेद 21 जीवन और व्यक्तिगत स्वतंत्रता के संरक्षण से संबंधित है।"
+  },
+  {
+    "id": "GK003",
+    "subject": "GK",
+    "topic": "Polity",
+    "question": "लोकसभा का सामान्य कार्यकाल कितना होता है?",
+    "options": ["4 वर्ष", "5 वर्ष", "6 वर्ष", "7 वर्ष"],
+    "answer": 1,
+    "explanation": "लोकसभा का सामान्य कार्यकाल पाँच वर्ष है, यदि इसे पहले भंग न किया जाए।"
+  },
+  {
+    "id": "GK004",
+    "subject": "GK",
+    "topic": "Economy",
+    "question": "भारतीय रिज़र्व बैंक की स्थापना किस वर्ष हुई?",
+    "options": ["1932", "1935", "1947", "1949"],
+    "answer": 1,
+    "explanation": "RBI ने 1 अप्रैल 1935 से कार्य करना शुरू किया।"
+  },
+  {
+    "id": "GK005",
+    "subject": "GK",
+    "topic": "Science",
+    "question": "सौरमंडल का सबसे बड़ा ग्रह कौन-सा है?",
+    "options": ["पृथ्वी", "मंगल", "बृहस्पति", "शनि"],
+    "answer": 2,
+    "explanation": "बृहस्पति (Jupiter) सौरमंडल का सबसे बड़ा ग्रह है।"
+  },
+  {
+    "id": "GK006",
+    "subject": "GK",
+    "topic": "Biology",
+    "question": "विटामिन C की कमी से कौन-सा रोग होता है?",
+    "options": ["रिकेट्स", "स्कर्वी", "रतौंधी", "बेरी-बेरी"],
+    "answer": 1,
+    "explanation": "Vitamin C की कमी से स्कर्वी होता है; इसमें मसूड़ों से रक्तस्राव हो सकता है।"
+  },
+  {
+    "id": "GK007",
+    "subject": "GK",
+    "topic": "Physics",
+    "question": "बल की SI इकाई क्या है?",
+    "options": ["जूल", "वाट", "न्यूटन", "पास्कल"],
+    "answer": 2,
+    "explanation": "बल की SI इकाई न्यूटन (N) है।"
+  },
+  {
+    "id": "GK008",
+    "subject": "GK",
+    "topic": "Biology",
+    "question": "पत्तियों का हरा रंग किस वर्णक के कारण होता है?",
+    "options": ["हीमोग्लोबिन", "मेलानिन", "क्लोरोफिल", "कैरोटीन"],
+    "answer": 2,
+    "explanation": "क्लोरोफिल प्रकाश को अवशोषित करता है और पत्तियों को हरा रंग देता है।"
+  },
+  {
+    "id": "GK009",
+    "subject": "GK",
+    "topic": "Biology",
+    "question": "प्रकाश संश्लेषण में पौधे मुख्यतः कौन-सी गैस ग्रहण करते हैं?",
+    "options": ["ऑक्सीजन", "नाइट्रोजन", "कार्बन डाइऑक्साइड", "हाइड्रोजन"],
+    "answer": 2,
+    "explanation": "पौधे प्रकाश संश्लेषण में carbon dioxide और water से भोजन बनाते हैं।"
+  },
+  {
+    "id": "GK010",
+    "subject": "GK",
+    "topic": "Jharkhand GK",
+    "question": "झारखंड की राजधानी क्या है?",
+    "options": ["दुमका", "जमशेदपुर", "राँची", "धनबाद"],
+    "answer": 2,
+    "explanation": "राँची झारखंड की राजधानी है; दुमका उप-राजधानी है।"
+  },
+  {
+    "id": "GK011",
+    "subject": "GK",
+    "topic": "Geography",
+    "question": "किस नदी को ‘बंगाल का शोक’ कहा जाता है?",
+    "options": ["गंगा", "दामोदर", "महानदी", "सोन"],
+    "answer": 1,
+    "explanation": "ऐतिहासिक बाढ़ों के कारण दामोदर नदी को ‘बंगाल का शोक’ कहा गया।"
+  },
+  {
+    "id": "GK012",
+    "subject": "GK",
+    "topic": "Jharkhand GK",
+    "question": "निम्न में से किस राज्य से कर्क रेखा गुजरती है?",
+    "options": ["केरल", "झारखंड", "पंजाब", "हरियाणा"],
+    "answer": 1,
+    "explanation": "कर्क रेखा भारत के आठ राज्यों से गुजरती है, जिनमें झारखंड शामिल है।"
+  },
+  {
+    "id": "GK013",
+    "subject": "GK",
+    "topic": "History",
+    "question": "मोहनजोदड़ो किस सभ्यता का प्रमुख नगर था?",
+    "options": ["वैदिक सभ्यता", "सिंधु घाटी सभ्यता", "मौर्य सभ्यता", "गुप्त सभ्यता"],
+    "answer": 1,
+    "explanation": "मोहनजोदड़ो सिंधु घाटी या हड़प्पा सभ्यता का प्रमुख नगर था।"
+  },
+  {
+    "id": "GK014",
+    "subject": "GK",
+    "topic": "History",
+    "question": "भारत छोड़ो आंदोलन किस वर्ष शुरू हुआ?",
+    "options": ["1930", "1935", "1942", "1946"],
+    "answer": 2,
+    "explanation": "भारत छोड़ो आंदोलन अगस्त 1942 में शुरू हुआ।"
+  },
+  {
+    "id": "GK015",
+    "subject": "GK",
+    "topic": "Culture",
+    "question": "‘वंदे मातरम्’ के रचयिता कौन हैं?",
+    "options": ["रवीन्द्रनाथ टैगोर", "बंकिमचंद्र चट्टोपाध्याय", "मैथिलीशरण गुप्त", "सरोजिनी नायडू"],
+    "answer": 1,
+    "explanation": "‘वंदे मातरम्’ बंकिमचंद्र चट्टोपाध्याय के उपन्यास आनंदमठ में है।"
+  },
+  {
+    "id": "GK016",
+    "subject": "GK",
+    "topic": "Polity",
+    "question": "मूल कर्तव्यों को संविधान में किस संशोधन द्वारा जोड़ा गया?",
+    "options": ["24वाँ", "42वाँ", "44वाँ", "73वाँ"],
+    "answer": 1,
+    "explanation": "मूल कर्तव्य 1976 के 42वें संविधान संशोधन द्वारा जोड़े गए।"
+  },
+  {
+    "id": "GK017",
+    "subject": "GK",
+    "topic": "Chemistry",
+    "question": "25°C पर शुद्ध जल का pH मान कितना होता है?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2,
+    "explanation": "25°C पर शुद्ध जल neutral होता है और उसका pH 7 होता है।"
+  },
+  {
+    "id": "GK018",
+    "subject": "GK",
+    "topic": "Physics",
+    "question": "ध्वनि किस माध्यम में यात्रा नहीं कर सकती?",
+    "options": ["ठोस", "द्रव", "गैस", "निर्वात"],
+    "answer": 3,
+    "explanation": "ध्वनि को संचरण के लिए भौतिक माध्यम चाहिए; निर्वात में माध्यम नहीं होता।"
+  },
+  {
+    "id": "GK019",
+    "subject": "GK",
+    "topic": "Biology",
+    "question": "मानव शरीर का सबसे बड़ा अंग कौन-सा है?",
+    "options": ["यकृत", "त्वचा", "फेफड़ा", "मस्तिष्क"],
+    "answer": 1,
+    "explanation": "क्षेत्रफल और भार के आधार पर त्वचा मानव शरीर का सबसे बड़ा अंग है।"
+  },
+  {
+    "id": "GK020",
+    "subject": "GK",
+    "topic": "Polity",
+    "question": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन से मिला?",
+    "options": ["42वाँ", "44वाँ", "73वाँ", "74वाँ"],
+    "answer": 2,
+    "explanation": "73वें संविधान संशोधन ने ग्रामीण पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया।"
+  }
+]
